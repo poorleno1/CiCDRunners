@@ -3,7 +3,7 @@ kind: Label
 metadata:
   name: wonderful-goldberg-0cf001
 spec:
-  color: '#326BBB'
+  color: '#326BBA'
   name: 'deploy: automated'
 ---
 apiVersion: influxdata.com/v2alpha1
